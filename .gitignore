@@ -8,3 +8,5 @@ dist/
 coverage/
 build/
 coverage-report/
+*.tmp
+*.temp
