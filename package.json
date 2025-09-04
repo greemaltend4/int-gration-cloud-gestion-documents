@@ -1,0 +1,25 @@
+{
+  "name": "intégration-cloud-gestion-documents",
+  "version": "1.0.0",
+  "description": "Un système de gestion de documents dans le cloud",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "webpack-dev-server"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9",
+    "firebase": "^9.1.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.10.0",
+    "webpack-cli": "^4.2.0",
+    "webpack-dev-server": "^3.11.0",
+    "babel-loader": "^8.2.2",
+    "@babel/core": "^7.14.0",
+    "@babel/preset-env": "^7.14.0",
+    "@babel/preset-react": "^7.13.0"
+  },
+  "license": "MIT"
+}
