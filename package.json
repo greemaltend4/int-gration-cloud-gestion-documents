@@ -10,7 +10,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^5.10.9",
-    "firebase": "^9.1.0"
+    "firebase": "^9.22.1"
   },
   "devDependencies": {
     "webpack": "^5.10.0",
