@@ -10,3 +10,4 @@ build/
 coverage-report/
 *.tmp
 *.temp
+.vscode/
